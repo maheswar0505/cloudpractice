@@ -1,2 +1,2 @@
 yum install git -y
-yum install ansible -y
+ sudo amazon-linux-extras install ansible2
